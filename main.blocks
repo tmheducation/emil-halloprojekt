@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_selected_event" id="RjnhikUzD7S8{{/a$yjG" x="166" y="-10"><field name="NAME">Button.A</field><value name="eventType"><shadow type="control_button_event_click" id="i-dRw!7zqW]^M7()l!g:"/></value><statement name="HANDLER"><block type="device_print_message" id="=Y^{zi5buMliFU2_b$%i"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="text"><shadow type="text" id="si|gG-^;5PH:f@YGKbOp"><field name="TEXT">LOS</field></shadow></value><next><block type="device_show_leds" id=":oGQ+z!z?OKdL;H;sP9{"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        # . # . # 
+        . # . # . 
+        . . # . .
+        `</field></block></next></block></statement></block><block type="pxt-on-start" id="}jO!`/{:u:0O~O[d;03%" x="0" y="0"/><block type="device_button_selected_event" id="MpYPrWl^+~CBKohqLLU]" x="478" y="-11"><field name="NAME">Button.B</field><value name="eventType"><shadow type="control_button_event_click" id="#jP}?37i,m2SN0.,RO#0"/></value><statement name="HANDLER"><block type="device_stop_animation" id="z$ZWWpEcT`[7SdaywJ9g"/></statement></block></xml>
