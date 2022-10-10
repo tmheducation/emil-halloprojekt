@@ -1,4 +1,5 @@
 input.onButtonEvent(Button.A, input.buttonEventClick(), function () {
+    basic.setLedColor(0x00ffff)
     basic.showString("LOS")
     basic.showLeds(`
         . . . . .
